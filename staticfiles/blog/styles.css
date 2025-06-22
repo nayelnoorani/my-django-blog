@@ -1,0 +1,17 @@
+/* blog/static/blog/styles.css */
+body {
+        font-family: sans-serif;
+        background: #f8f9fa;
+        padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.post {
+    background:white;
+    padding:15px;
+    margin-bottom:20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
